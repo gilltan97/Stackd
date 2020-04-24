@@ -12,7 +12,6 @@ These instructions will get you a copy of the project up and running on your loc
 #### Prerequisites and Installation
 
 - To run this application, you must have android studio installed on your machine. 
-
 - You can view a step by step instructional video explaining how to install Android Studio [here](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
 
 ## Deployment
